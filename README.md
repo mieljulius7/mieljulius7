@@ -1,7 +1,7 @@
 # Python Backend & AI Developer
 
 Welcome to My Profile!
-### I bring 8 years of experience working on Python-related projects, including:
+### I bring 2 years of experience working on Python-related projects, including:
 - Backend Development: Flask, FastAPI, Django
 - AWS Infrastructure: CDK, Serverless
 - AI Expertise: OpenAI, LLaMA 3.2, LangChain, VectorDB
